@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976710205275",
+    "project_id": "employeeonboardingmanager",
+    "storage_bucket": "employeeonboardingmanager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976710205275:android:e0c9317c86ffb65778a47e",
+        "android_client_info": {
+          "package_name": "com.example.employeeonboardingmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMavlF-P3I0EdzDYo3udfZ7UThF3KujU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
